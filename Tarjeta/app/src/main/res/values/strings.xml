@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarjeta</string>
+    <string name="btnPlay">Play</string>
+    <string name="btnPause">Pause</string>
+</resources>

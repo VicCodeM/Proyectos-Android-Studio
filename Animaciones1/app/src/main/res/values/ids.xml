@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btEjeX" type="id" />
+    <item name="btScale" type="id" />
+    <item name="btMainActivityCancel" type="id" />
+    <item name="btMainActivity" type="id" />
+    <item name="ivScale" type="id" />
+    <item name="btBucle" type="id" />
+    <item name="ivBucle" type="id" />
+    <item name="btTodo" type="id" />
+    <item name="ivTodo" type="id" />
+    <item name="btRotation" type="id" />
+    <item name="ivRotation" type="id" />
+    <item name="btAlpha" type="id" />
+    <item name="ivAlpha" type="id" />
+    <item name="btEjeY" type="id" />
+    <item name="ivEjeY" type="id" />
+    <item name="ivEjeX" type="id" />
+</resources>

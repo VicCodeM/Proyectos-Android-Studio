@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/brack"
+    tools:context=".MainActivity">
+
+    <!-- Primera fila -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <!-- Elementos de la primera fila -->
+        <ImageView
+            android:id="@+id/ivEjeX"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/img" />
+
+        <Button
+            android:id="@+id/btEjeX"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="EjeX"
+            android:layout_margin="10dp" />
+
+        <ImageView
+            android:id="@+id/ivEjeY"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/img" />
+
+        <Button
+            android:id="@+id/btEjeY"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="EjeY"
+            android:layout_margin="10dp" />
+    </LinearLayout>
+
+    <!-- Segunda fila -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <!-- Elementos de la segunda fila -->
+        <ImageView
+            android:id="@+id/ivAlpha"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/img" />
+
+        <Button
+            android:id="@+id/btAlpha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Alpha"
+            android:layout_margin="10dp" />
+
+        <ImageView
+            android:id="@+id/ivRotation"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/img" />
+
+        <Button
+            android:id="@+id/btRotation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rotation"
+            android:layout_margin="10dp" />
+    </LinearLayout>
+
+    <!-- Espacio entre filas -->
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_weight="1" />
+
+    <!-- Tercera fila -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <!-- Elementos de la tercera fila -->
+        <ImageView
+            android:id="@+id/ivTodo"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/img" />
+
+        <Button
+            android:id="@+id/btTodo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Des Cir"
+            android:layout_margin="10dp" />
+
+        <ImageView
+            android:id="@+id/ivBucle"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/img" />
+
+        <Button
+            android:id="@+id/btBucle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Bucle" />
+    </LinearLayout>
+
+    <!-- Cuarta fila -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <!-- Espacio en blanco para separar las filas -->
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:id="@+id/ivScale"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/img" />
+
+        <!-- Espacio en blanco para separar las filas -->
+        <Button
+            android:id="@+id/btScale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Scale" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <!-- Quinta fila -->
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <!-- Elementos de la quinta fila -->
+        <ImageView
+            android:id="@+id/ivMiImagen"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/img" />
+
+        <Button
+            android:id="@+id/btMiBoton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:text="rota tem" />
+
+        <ImageView
+            android:id="@+id/imageFadeRotate"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/img" />
+
+        <Button
+            android:id="@+id/buttonFadeRotate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:text="Fade y Rotate" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingTop="10dp">
+
+        <Button
+            android:id="@+id/btParar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:layout_weight="1"
+            android:text="Parar" />
+
+        <Button
+            android:id="@+id/btMainActivityCancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:layout_weight="1"
+            android:text="Rotar Todo" />
+
+    </LinearLayout>
+</LinearLayout>

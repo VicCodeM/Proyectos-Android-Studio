@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Giroscopio</string>
+    <string name="image_description">Descripción de la imagen del giroscopio</string>
+
+</resources>

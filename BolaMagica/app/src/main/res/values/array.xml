@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="frases">
+        <item>No lo se</item>
+        <item>Puede</item>
+        <item>Si</item>
+        <item>No</item>
+        <item>Dalo por echo</item>
+        <item>Quizas</item>
+        <item>Tal vez</item>
+        <item>Probablemente</item>
+        <item>Definitivamente no</item>
+        <item>Sin duda</item>
+        <item>Mejor no te lo digo</item>
+        <item>No cuentes con ello</item>
+        <item>Es una posibilidad</item>
+        <item>No lo veo claro</item>
+        <item>Consulta de nuevo más tarde</item>
+        <item>Mis fuentes dicen que no</item>
+        <item>¡Claro que sí!</item>
+        <item>No hay garantías</item>
+        <item>Pregúntame otra vez</item>
+        <item>Mi respuesta es no</item>
+        <item>No confíes en eso</item>
+        <item>Respuesta nebulosa, intenta de nuevo</item>
+        <item>No me hagas preguntas difíciles</item>
+        <item>Todo apunta a sí</item>
+        <item>Las perspectivas son buenas</item>
+        <item>Sería prudente no contar con ello</item>
+        <item>Sí, pero no ahora</item>
+        <item>No puedo predecir ahora</item>
+        <item>Es cierto</item>
+        <item>Es decididamente así</item>
+        <item>Más probable que no</item>
+        <item>Concéntrate y pregunta de nuevo</item>
+        <!-- Agrega más frases según tus preferencias -->
+    </string-array>
+
+    <integer-array name="colores">
+        <item>@color/bright_pink</item>
+
+        <item>@color/orange</item>
+        <item>@color/yellow</item>
+        <item>@color/chartreuse</item>
+        <item>@color/green</item>
+        <item>@color/spring_green</item>
+        <item>@color/cyan</item>
+        <item>@color/azure</item>
+
+
+        <item>@color/magenta</item>
+        <item>@color/turquoise</item>
+
+        <item>@color/gold</item>
+        <item>@color/silver</item>
+        <item>@color/lavender</item>
+        <item>@color/coral</item>
+
+        <item>@color/turquoise</item>
+
+        <item>@color/gold</item>
+        <item>@color/silver</item>
+        <item>@color/lavender</item>
+        <item>@color/coral</item>
+
+        <!-- Agrega más colores según tus preferencias -->
+    </integer-array>
+</resources>

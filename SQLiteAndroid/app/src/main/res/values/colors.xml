@@ -1,0 +1,38 @@
+<resources>
+    <!-- Colores primarios -->
+    <color name="colorPrimary">#673AB7</color> <!-- Dracula Foreground -->
+    <color name="colorPrimaryDark">#FF79C6</color> <!-- Dracula Red -->
+    <color name="colorAccent">#23913F</color> <!-- Dracula Green -->
+
+    <!-- Colores secundarios -->
+    <color name="colorSecondary">#FFB86C</color> <!-- Dracula Yellow -->
+    <color name="colorSecondaryVariant">#FF79C6</color> <!-- Dracula Red -->
+
+    <!-- Colores de error -->
+    <color name="colorError">#FF5555</color> <!-- Dracula Red -->
+
+    <!-- Colores de fondo -->
+    <color name="colorSurface">#282A36</color> <!-- Dracula Background -->
+    <color name="colorBackground">#282A36</color> <!-- Dracula Background -->
+
+    <!-- Colores de texto -->
+    <color name="colorOnPrimary">#282A36</color> <!-- Dracula Background -->
+    <color name="colorOnSecondary">#282A36</color> <!-- Dracula Background -->
+    <color name="colorOnBackground">#F8F8F2</color> <!-- Dracula Foreground -->
+    <color name="colorOnSurface">#F8F8F2</color> <!-- Dracula Foreground -->
+    <color name="colorOnError">#282A36</color> <!-- Dracula Background -->
+
+    <!-- Colores de línea y borde -->
+    <color name="colorOnSurfaceVariant">#44475A</color> <!-- Dracula Comment -->
+    <color name="colorOnBackgroundVariant">#44475A</color> <!-- Dracula Comment -->
+
+    <!-- Colores de estado -->
+    <color name="colorHighEmphasis">#F8F8F2</color> <!-- Dracula Foreground -->
+    <color name="colorMediumEmphasis">#6272A4</color> <!-- Dracula Selection -->
+    <color name="colorLowEmphasis">#44475A</color> <!-- Dracula Comment -->
+
+    <!-- Colores de acción -->
+    <color name="colorActionPrimary">#B950D6</color> <!-- Dracula Foreground -->
+    <color name="colorActionSecondary">#4CAF50</color> <!-- Dracula Green -->
+    <color name="colorActionTertiary">#D54A4A</color> <!-- Dracula Red -->
+</resources>

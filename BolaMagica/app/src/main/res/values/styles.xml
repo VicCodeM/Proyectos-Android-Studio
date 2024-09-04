@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="TextoConBorde">
+        <item name="android:textColor">@color/lavender</item> <!-- Color del borde -->
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+</resources>

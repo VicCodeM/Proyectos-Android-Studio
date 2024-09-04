@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bright_pink">#FF007F</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FF7F00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="green">#00FF00</color>
+    <color name="spring_green">#00FF7F</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="azure">#007FFF</color>
+    <color name="blue">#0000FF</color>
+    <color name="violet">#7F00FF</color>
+    <color name="magenta">#FF00FF</color>
+
+    <!-- Colores adicionales -->
+    <color name="turquoise">#40E0D0</color>
+    <color name="indigo">#4B0082</color>
+    <color name="gold">#FFD700</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="coral">#FF7F50</color>
+    <color name="dark_green">#006400</color>
+    <!-- Agrega más colores según tus preferencias -->
+
+    <color name="dracula_purple">#BD93F9</color>
+    <color name="dracula_purple_dark">#44475A</color>
+    <color name="dracula_pink">#FF79C6</color>
+    <color name="dracula_background">#282A36</color>
+
+
+    <color name="colorAccent">#8B479A</color>
+
+
+</resources>
